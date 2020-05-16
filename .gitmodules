@@ -1,0 +1,7 @@
+[submodule "cand-c2-project"]
+	path = cand-c2-project/cand-c2-project
+	url = git@github.com:udacity/cand-c2-project.git
+
+[submodule "nd063-c2-design-for-availability-resilience-reliability-replacement-project-starter-template"]
+	path = nd063-c2-design-for-availability-resilience-reliability-replacement-project-starter-template/nd063-c2-design-for-availability-resilience-reliability-replacement-project-starter-template
+	url = git@github.com:udacity/nd063-c2-design-for-availability-resilience-reliability-replacement-project-starter-template.git
